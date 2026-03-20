@@ -1,4 +1,4 @@
-# week {04} : 
+# week {04} :javaScript fundamentals 
 ## author
 - **davidkinyua:** david kinyua muraya
 - **Github** [davidkinyuamuraya-wq](https://github.com/davidkinyuamuraya-wq)
